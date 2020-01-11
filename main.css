@@ -1,42 +1,59 @@
 body{
-  background-color: #FFF9C9;
-  font-family: "Roboto", serif;
+  background-color: #2B4F81;
+  color: ##F0F8FF;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
-h1.name{
-  position: relative; 
-  top: 20px; 
-  left: 10px;
+.name{
+  font-size: 50px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 400;
+  margin: 0px;
+  color: #68737E;
   text-transform: uppercase;
 }
 
-p.name{
-  position: relative; 
-  top: 30px; 
-  left: 10px;
-}
-
-h2.about_me{
-  position: relative; 
-  top: 30px; 
-  left: 50px;
-  text-transform: lowercase;
-}
-p.about_me{
-  position: relative; 
-  top: 40px; 
-  left: 50px;
-}
-
-h2.contact_me{
-  position: relative; 
-  top: 60px; 
-  left: 50px;
+h2{
+  font-size: 30px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 400;
+  margin-top: 24px;
+  margin-bottom: 0px;
+  color: ##F0F8FF;
   text-transform: lowercase;
 }
 
-p.contact_me{
-  position: relative; 
-  top: 70px; 
-  left: 50px;
+p{
+  font-size: 25px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 200;
+  margin-top: 24px;
+  margin-bottom: 0px;  
+  color: #F0F8FF;
+  text-transform: lowercase;
+}
+
+.big-button {
+  background-color: #2B4F81;
+  border: 2px solid #2F363D;
+  color: #68737E;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  padding: 16px;
+  border-radius: 2px;
+  margin-right: 16px;
+}
+
+.big-button:hover {
+  background-color: #0087FF;
+  border: 2px solid #0087FF;
+  color: #F0F8FF;
+  cursor: pointer;
+}
+
+.menu {
+  margin-top: 64px;
 }
