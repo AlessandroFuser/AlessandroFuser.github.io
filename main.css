@@ -1,6 +1,6 @@
 body{
-  background-color: #2B4F81;
-  color: ##F0F8FF;
+  background-color: #1A1F23;
+  color: ##fafafa;
   font-family: 'Roboto', sans-serif;
   margin-left: 10%;
   margin-right: 10%;
@@ -21,7 +21,7 @@ h2{
   font-weight: 400;
   margin-top: 24px;
   margin-bottom: 0px;
-  color: ##F0F8FF;
+  color: ##68737E;
   text-transform: lowercase;
 }
 
@@ -36,7 +36,7 @@ p{
 }
 
 .big-button {
-  background-color: #2B4F81;
+  background-color: #1A1F23;
   border: 2px solid #2F363D;
   color: #68737E;
   font-family: 'Roboto', sans-serif;
@@ -48,7 +48,7 @@ p{
 }
 
 .big-button:hover {
-  background-color: #0087FF;
+  background-color: #FFA500;
   border: 2px solid #0087FF;
   color: #F0F8FF;
   cursor: pointer;
