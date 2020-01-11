@@ -1,4 +1,6 @@
 body{
   background-color: #FFF9C9;
-  font-family: Roboto, serif;
-}
+  font-family: Roboto, serif;}
+
+h1{
+  text-transform: uppercase;}
