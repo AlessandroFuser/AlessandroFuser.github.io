@@ -6,13 +6,12 @@ body{
   margin-right: 10%;
 }
 
-.name h1{
-  font-size: 50px;
+.name h1 {
+  font-size: 64px;
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
   margin: 0px;
-  color: #FFA500;
-  text-transform: uppercase;
+  margin-top: 10%;
 }
 
 h2{
