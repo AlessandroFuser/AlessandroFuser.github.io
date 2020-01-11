@@ -1,6 +1,6 @@
 body{
   background-color: #1A1F23;
-  color: ##fafafa;
+  color: ##f9f9f9;
   font-family: 'Roboto', sans-serif;
   margin-left: 10%;
   margin-right: 10%;
@@ -11,7 +11,7 @@ body{
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 400;
   margin: 0px;
-  color: #68737E;
+  color: #FFA500;
   text-transform: uppercase;
 }
 
@@ -21,7 +21,7 @@ h2{
   font-weight: 400;
   margin-top: 24px;
   margin-bottom: 0px;
-  color: ##68737E;
+  color: ##f9f9f9;
   text-transform: lowercase;
 }
 
@@ -31,7 +31,7 @@ p{
   font-weight: 200;
   margin-top: 24px;
   margin-bottom: 0px;  
-  color: #F0F8FF;
+  color: #f9f9f9;
   text-transform: lowercase;
 }
 
@@ -49,8 +49,8 @@ p{
 
 .big-button:hover {
   background-color: #FFA500;
-  border: 2px solid #0087FF;
-  color: #F0F8FF;
+  border: 2px solid #FFA500;
+  color: #f9f9f9;
   cursor: pointer;
 }
 
