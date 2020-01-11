@@ -1,6 +1,42 @@
 body{
   background-color: #FFF9C9;
-  font-family: "Roboto", serif;}
+  font-family: "Roboto", serif;
+}
 
-h1{
-  text-transform: uppercase;}
+h1.name{
+  position: relative; 
+  top: 20px; 
+  left: 10px;
+  text-transform: uppercase;
+}
+
+p.name{
+  position: relative; 
+  top: 30px; 
+  left: 10px;
+}
+
+h2.about_me{
+  position: relative; 
+  top: 30px; 
+  left: 50px;
+  text-transform: lowercase;
+}
+p.about_me{
+  position: relative; 
+  top: 40px; 
+  left: 50px;
+}
+
+h2.contact_me{
+  position: relative; 
+  top: 60px; 
+  left: 50px;
+  text-transform: lowercase;
+}
+
+p.contact_me{
+  position: relative; 
+  top: 70px; 
+  left: 50px;
+}
