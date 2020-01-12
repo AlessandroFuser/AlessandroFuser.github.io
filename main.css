@@ -69,3 +69,23 @@ p {
   margin-top: 64px;
 }
  
+.small-button {
+  background-color: #1A1F23;
+  border: 2px solid #2F363D;
+  color: #68737E;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 2px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-right: 8px;
+}
+
+.small-button:hover {
+  background-color: #0087FF;
+  border: 2px solid #0087FF;
+  color: #fafafa;
+  cursor: pointer;
+}
