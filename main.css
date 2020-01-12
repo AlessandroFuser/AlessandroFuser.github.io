@@ -26,17 +26,7 @@ body {
   text-transform: lowercase;
 }
 
-.desc1 p {
-  font-size: 25px;
-  font-family: 'Roboto Mono', sans-serif;
-  font-weight: 200;
-  margin-top: 24px;
-  margin-bottom: 0px;  
-  color: #68737E;
-  text-transform: lowercase;
-}
-
-.desc2 p {
+p {
   font-size: 25px;
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 200;
