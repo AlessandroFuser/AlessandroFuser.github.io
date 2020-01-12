@@ -12,20 +12,31 @@ body {
   font-weight: 400;
   margin: 0px;
   margin-top: 10%;
+  color: ##FFFFFF;
   text-transform: uppercase;
 }
 
-h2 {
+.subtitle1 h2 {
   font-size: 36px;
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 400;
   margin-top: 24px;
   margin-bottom: 0px;
-  color: ##68737E;
+  color: ##0087FF;
   text-transform: lowercase;
 }
 
-p {
+.desc1 p {
+  font-size: 25px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 200;
+  margin-top: 24px;
+  margin-bottom: 0px;  
+  color: #68737E;
+  text-transform: lowercase;
+}
+
+.desc2 p {
   font-size: 25px;
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 200;
