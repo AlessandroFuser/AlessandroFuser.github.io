@@ -89,3 +89,34 @@ p {
   color: #fafafa;
   cursor: pointer;
 }
+
+
+.heading h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  color: rgba(255, 255, 255, .80);
+  font-weight: 700;
+  margin-top: 24px;
+  margin-bottom: 0px;
+}
+
+.cities h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  color: #68737E;
+}
+
+.bulletpoints{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: rgba(255, 255, 255, .60);
+  font-weight: 400;
+  line-height: 24px;
+}
+
+li {
+  margin-top: 18px;
+}
