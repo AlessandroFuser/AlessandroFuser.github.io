@@ -75,11 +75,11 @@ p {
   color: #68737E;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   padding: 8px;
   border-radius: 2px;
   margin-top: 16px;
-  margin-bottom: 16px;
+  margin-bottom: 0px;
   margin-right: 8px;
 }
 
