@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #1A1F23;
   color: ##fafafa;
   font-family: 'Roboto', sans-serif;
@@ -6,7 +6,7 @@ body{
   margin-right: 10%;
 }
 
-.name h1 {
+h1 {
   font-size: 64px;
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
@@ -16,7 +16,7 @@ body{
   text-transform: uppercase;
 }
 
-h2{
+h2 {
   font-size: 30px;
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 400;
@@ -26,7 +26,12 @@ h2{
   text-transform: lowercase;
 }
 
-p{
+span {
+      color: #0087FF;
+      font-family: 'Roboto Mono', monospace;
+}
+
+p {
   font-size: 25px;
   font-family: 'Roboto Mono', sans-serif;
   font-weight: 200;
