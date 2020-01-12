@@ -6,11 +6,10 @@ body {
   margin-right: 10%;
 }
 
-h1 {
+.name h1 {
   font-size: 64px;
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
-  color: ##FFFFFF;
   margin: 0px;
   margin-top: 10%;
   text-transform: uppercase;
@@ -24,11 +23,6 @@ h2 {
   margin-bottom: 0px;
   color: ##68737E;
   text-transform: lowercase;
-}
-
-span {
-      color: #0087FF;
-      font-family: 'Roboto Mono', monospace;
 }
 
 p {
