@@ -125,3 +125,8 @@ span {
 li {
   margin-top: 18px;
 }
+
+hr {
+  border: 1px solid rgba(255, 255, 255, .25);
+}
+
