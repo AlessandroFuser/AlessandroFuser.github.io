@@ -120,6 +120,7 @@ span {
   font-size: 25px;
   color: rgba(255, 255, 255, .60);
   font-weight: 400;
+  text-align: justify;
   line-height: 24px;
 }
 
