@@ -46,6 +46,11 @@ p {
   text-transform: lowercase;
 }
 
+span {
+   color: #0087FF;
+   font-family: 'Roboto Mono', monospace;
+}
+
 .big-button {
   background-color: #1A1F23;
   border: 2px solid #2F363D;
