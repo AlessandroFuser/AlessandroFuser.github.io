@@ -1,6 +1,6 @@
 body {
   background-color: #1A1F23;
-  color: ##fafafa;
+  color: #fafafa;
   font-family: 'Roboto', sans-serif;
   margin-left: 10%;
   margin-right: 10%;
@@ -13,7 +13,7 @@ body {
   color:rgba(255, 255, 255, .80);
   margin: 0px;
   margin-top: 10%;
-  color: ##ffffff;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -45,6 +45,7 @@ p {
   margin-bottom: 0px;  
   color: #68737E;
   text-transform: lowercase;
+  text-align: justify;
 }
 
 span {
@@ -100,9 +101,9 @@ h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 25px;
   font-weight: 400;
-  margin-top: 8px;
+  margin-top: 24px;
   margin-bottom: 0px;
-  color:rgba(255, 255, 255, .80);
+  color:#ffffff;
   text-transform: lowercase;
 }
 
