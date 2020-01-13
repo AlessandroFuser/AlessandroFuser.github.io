@@ -96,38 +96,16 @@ span {
   cursor: pointer;
 }
 
-
-.heading h3 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 36px;
-  color: rgba(255, 255, 255, .80);
-  font-weight: 700;
-  margin-top: 36px;
-  margin-bottom: 0px;
-}
-
-.cities h3 {
+h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 25px;
   font-weight: 400;
   margin-top: 8px;
   margin-bottom: 0px;
-  color: #68737E;
-}
-
-.bulletpoints{
-  font-family: 'Roboto', sans-serif;
-  font-size: 18px;
-  color: rgba(255, 255, 255, .60);
-  font-weight: 400;
-  text-align: justify;
-  line-height: 24px;
+  color:rgba(255, 255, 255, .80);
   text-transform: lowercase;
 }
 
-li {
-  margin-top: 18px;
-}
 
 hr {
   border: 1px solid rgba(255, 255, 255, .25);
