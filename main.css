@@ -66,8 +66,8 @@ span {
 }
 
 .big-button:hover {
-  background-color: #0087FF;
-  border: 2px solid #0087FF;
+  background-color: #ff6500;
+  border: 2px solid #ff6500;
   color: #f9f9f9;
   cursor: pointer;
 }
@@ -91,8 +91,8 @@ span {
 }
 
 .small-button:hover {
-  background-color: #0087FF;
-  border: 2px solid #0087FF;
+  background-color: #ff6500;
+  border: 2px solid #ff6500;
   color: #fafafa;
   cursor: pointer;
 }
